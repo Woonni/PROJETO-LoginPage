@@ -15,10 +15,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 <p align="center">
-  <img width="700" alt="preview" src="" width="100%">
+  <img width="1000" alt="preview" src="imglogin.PNG" width="300%">
 </p>
 
 ## 💌 Projeto
 
-Você pode ver os detalhes desses projetos aqui: <br> <br>
+Você pode ver os detalhes desse projeto aqui: <br> <br>
 (https://youtu.be/69-WfrVBli8)
